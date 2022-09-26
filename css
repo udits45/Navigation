@@ -1,0 +1,16 @@
+<style>
+body{background-color:black;}
+p{color:lightcoral;}
+h1{color:white;}
+a{padding:30px;
+  text-decoration:none;
+  background-color:coral;
+  float:left;
+  width:400px;
+  font-family:cursive;
+  }
+nav{display:flex;
+    padding:0px;
+    position:relative;}
+.container{margin-top:30px;}
+</style>
